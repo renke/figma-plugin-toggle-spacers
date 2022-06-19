@@ -1,8 +1,8 @@
 # Toggle Spacers
 
-![Cover](./cover.png)
-
 Toggle all your spacers with ease.
+
+![Cover](./cover.png)
 
 How to use this plugin:
 
