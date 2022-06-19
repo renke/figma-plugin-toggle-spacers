@@ -1,0 +1,21 @@
+{
+  "name": "Toggle Spacers",
+  "id": "1120348459929779245",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": ["figma"],
+  "menu": [
+    { "name": "All", "command": "toggleSpacers" },
+    {
+      "name": "Select page",
+      "command": "changeSpacersPageName",
+      "parameters": [
+        {
+          "name": "Spacers page",
+          "key": "page-name",
+          "description": "The page containing the spacer components"
+        }
+      ]
+    }
+  ]
+}
