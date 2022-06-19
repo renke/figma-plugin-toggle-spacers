@@ -1,6 +1,6 @@
-![Cover](./cover.png)
-
 # Toggle Spacers
+
+![Cover](./cover.png)
 
 Toggle all your spacers with ease.
 
